@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dennis_101165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dennis_101165" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dennis-landaverde-921a38230" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3128/3128329.png" alt="dennis-landaverde-921a38230" height="30" width="40" /></a>
+<a href="https://twitter.com/dennis_101165" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="dennis_101165" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dennis-landaverde-921a38230" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="dennis-landaverde-921a38230" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/u/3/#inbox?compose=new" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="dennis_101165" height="30" width="40" /></a>
 </p>
 
