@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/564x/73/c5/b2/73c5b2afc684e0e6bc1b9469e5120b88.jpg)
+![MasterHead](https://i.pinimg.com/564x/63/ff/3c/63ff3c6ec85fbbab48038feb5688c58f.jpg)
 <h2 align="center">Hi 👋, I'm Dennis Landaverde</h2>
 <h3 align="center">I'm an engineer who loves desktop and web development</h3>
 <img align="right" alt="Coding" width="350"  src="https://static.vecteezy.com/system/resources/previews/010/998/283/non_2x/3d-programmer-pc-illustration-side-view-free-png.png">
