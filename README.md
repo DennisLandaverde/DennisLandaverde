@@ -1,6 +1,6 @@
 ![MasterHead](https://talently.tech/blog/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled.jpg)
 <h1 align="center">Hi 👋, I'm Dennis Landaverde</h1>
-<h3 align="center">A passionate web and desktop development</h3>
+<h3 align="center">I'm an engineer who loves desktop and web development</h3>
 
 
 
