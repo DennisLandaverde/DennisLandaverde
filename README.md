@@ -1,6 +1,6 @@
 ![MasterHead](https://talently.tech/blog/wp-content/uploads/2022/03/responsabilidades-de-un-programador-de-software-1024x270.jpg)
-<h2 align="center"> нι 👋, ι'м Deɴɴιѕ Lαɴdαverde</h2>
-<h3 align="center">ι'м αɴ eɴɢιɴeer wнo loveѕ deѕĸтop αɴd weв developмeɴт ♾️</h3>
+<h2 align="center"> нι 👋, ι'м 𝙳𝚎ɴɴιѕ 𝙻αɴ𝚍α𝚟𝚎𝚛𝚍𝚎</h2>
+<h3 align="center">𝙸'𝚖 𝚊𝚗 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚠𝚑𝚘 𝚕𝚘𝚟𝚎𝚜 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚊𝚗𝚍 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 ♾️</h3>
 <img align="right" alt="Coding" width="300" webkit-border-radius:85% src="./picture.png">
 
 
