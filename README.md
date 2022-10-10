@@ -1,4 +1,4 @@
-![MasterHead]([https://talently.tech/blog/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg](https://talently.tech/blog/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled.jpg))
+![MasterHead](https://talently.tech/blog/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled.jpg))
 <h1 align="center">Hi 👋, I'm Dennis Landaverde</h1>
 <h3 align="center">A passionate web and desktop development</h3>
 
