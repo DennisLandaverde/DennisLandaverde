@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennislandaverde&label=Profile%20views&color=0e75b6&style=flat" alt="dennislandaverde" /> </p>
 
 
-📬 How to reach me **dennis101165@gmail.com**
+📬 how to contact me **dennis101165@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
