@@ -1,7 +1,6 @@
 ![MasterHead](https://talently.tech/blog/wp-content/uploads/2022/03/responsabilidades-de-un-programador-de-software-1024x270.jpg)
 <h2 align="center">Hi 👋, I'm Dennis Landaverde</h2>
 <h3 align="center">I'm an engineer who loves desktop and web development ♾️</h3>
-<img align="right" alt="Coding" width="300"  border.radius: 20% src="https://st4.depositphotos.com/4230659/25343/v/450/depositphotos_253430840-stock-illustration-isometric-programmer-coding-new-project.jpg">
 
 
 
@@ -12,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/dennis_101165" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938028.png" alt="dennis_101165" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/dennis-landaverde-921a38230" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938044.png" alt="dennis-landaverde-921a38230" height="40" width="40" /></a>
-<a href="https://mail.google.com/mail/u/3/#inbox?compose=new" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="dennis_101165" height="40" width="40" /></a>
+<a href="mailto:dennis101165@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="dennis_101165" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
