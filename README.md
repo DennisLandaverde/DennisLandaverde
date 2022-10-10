@@ -1,7 +1,7 @@
 ![MasterHead](https://talently.tech/blog/wp-content/uploads/2022/03/responsabilidades-de-un-programador-de-software-1024x270.jpg)
 <h2 align="center">Hi 👋, I'm Dennis Landaverde</h2>
 <h3 align="center">I'm an engineer who loves desktop and web development ♾️</h3>
-<img align="right" alt="Coding" width="300"  border.radius: 20% src="https://image.shutterstock.com/image-vector/concept-computer-programming-developing-software-600w-2149658841.jpg">
+<img align="right" alt="Coding" width="300"  border.radius: 20% src="https://st2.depositphotos.com/3382541/11091/v/450/depositphotos_110919374-stock-illustration-sandbox-debug-flat-illustration.jpg">
 
 
 
