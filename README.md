@@ -1,7 +1,7 @@
 ![MasterHead](https://talently.tech/blog/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled.jpg)
 <h2 align="center">Hi 👋, I'm Dennis Landaverde</h2>
 <h3 align="center">I'm an engineer who loves desktop and web development</h3>
-<img align="right" alt="Coding" width="300"  src="https://static.vecteezy.com/system/resources/previews/004/815/622/non_2x/software-development-programming-language-coding-3d-isometric-laptop-computer-with-digital-application-isolated-on-white-background-design-vector.jpg">
+<img align="right" alt="Coding" width="300"  src="[https://static.vecteezy.com/system/resources/previews/004/815/622/non_2x/software-development-programming-language-coding-3d-isometric-laptop-computer-with-digital-application-isolated-on-white-background-design-vector.jpg](https://www.pinterest.es/pin/17732992274685178/)">
 
 
 
