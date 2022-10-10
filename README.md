@@ -4,9 +4,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennislandaverde&label=Profile%20views&color=0e75b6&style=flat" alt="dennislandaverde" /> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dennis_101165" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938028.png" alt="dennis_101165" height="40" width="40" /></a>
