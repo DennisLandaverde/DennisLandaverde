@@ -6,9 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennislandaverde&label=Profile%20views&color=0e75b6&style=flat" alt="dennislandaverde" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dennis_101165" target="blank"><img src="https://img.shields.io/twitter/follow/dennis_101165?logo=twitter&style=for-the-badge" alt="dennis_101165" /></a> </p>
 
-- 📫 How to reach me **dennis101165@gmail.com**
+📫 How to reach me **dennis101165@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
