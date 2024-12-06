@@ -4,7 +4,7 @@
 
 <h3 align="center">CONTACT ME:</h3>
 <p align="center">
-<a href="https://twitter.com/dennis_l10" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938028.png" alt="dennis_101165" height="55" width="55" /></a>
+<a href="https://twitter.com/dennis_land10" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938028.png" alt="dennis_101165" height="55" width="55" /></a>
 <a href="https://linkedin.com/in/dennislandaverde" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938044.png" alt="dennis-landaverde-921a38230" height="55" width="55" /></a>
 <a href="mailto:landaverdeoficial@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="dennis_101165" height="55" width="55" /></a>
 <a href="https://t.me/DennisLandaverde" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" alt="dennis_101165" height="55" width="55" /></a>
