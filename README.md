@@ -1,5 +1,5 @@
 <h2 align="center">I'M DENNIS LANDAVERDE</h2>
-<h3 align="center">I'M AN ENGINEER WHO LOVE  DEVELPMENT</h3>
+<h3 align="center">AN ENGINEER WHO LOVE  DEVELPMENT</h3>
 </br>
 
 <h3 align="center">CONTACT ME:</h3>
